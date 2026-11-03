@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "question": "What is the official programming language for Android development recommended by Google?",
+    "isRequired": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Kotlin",
+        "isCorrect": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "b",
+        "text": "Swift",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "c",
+        "text": "Ruby",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "d",
+        "text": "C#",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which toolkit is used for building native UI in Android with declarative Kotlin code?",
+    "isRequired": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "Flutter",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "b",
+        "text": "Jetpack Compose",
+        "isCorrect": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "c",
+        "text": "React Native",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "d",
+        "text": "Xamarin",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is your feedback on this survey application?",
+    "isRequired": false,
+    "options": [
+      {
+        "id": "a",
+        "text": "Excellent",
+        "isCorrect": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "b",
+        "text": "Good",
+        "isCorrect": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "c",
+        "text": "Average",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "d",
+        "text": "Needs Improvement",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Which architecture pattern is recommended by Google for modern Android apps?",
+    "isRequired": true,
+    "options": [
+      {
+        "id": "a",
+        "text": "MVC",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "b",
+        "text": "MVP",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "c",
+        "text": "MVVM",
+        "isCorrect": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      },
+      {
+        "id": "d",
+        "text": "Monolithic",
+        "isCorrect": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi01NeWvaU6Iz_uzD2_4vGkmQpZcLQ8Jn22KXraveUQcIdI3qqq-hw7N5u&s=10"
+      }
+    ]
+  }
+]
